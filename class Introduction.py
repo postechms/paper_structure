@@ -9,6 +9,10 @@ class Introduction:
 	def present(self):
 		return f"This study introduces the topic: {self.topic}."
 
+	def newFunction(self):
+		pass
+		"this is new function"
+
 
 class LiteratureReview:
 	"""Summarizes relevant existing knowledge."""
