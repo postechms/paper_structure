@@ -13,6 +13,10 @@ class Introduction:
 		pass
 		"this is new function"
 
+    def newF2(self):
+		pass
+		"this is a new function"
+
 
 class LiteratureReview:
 	"""Summarizes relevant existing knowledge."""
