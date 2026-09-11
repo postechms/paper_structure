@@ -1,5 +1,6 @@
 class Introduction:
 	"""Describes the background and purpose of the study."""
+	"""여기는 수정된"""
 
 	def __init__(self, topic):
 		self.topic = topic
